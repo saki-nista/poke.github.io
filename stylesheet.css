@@ -11,13 +11,24 @@ a {
   text-decoration: none;
 }
 
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-size: cover;
+  color: brown;
+  text-align: center;
+}
+
+.top-wrapper span {
+  color: red;
+}
+
 .container {
   width: 100%;
   padding: 0 15px;
   margin: 0 auto;
 }
 
-.top-wrapper {
+.maintop-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(top.png);
   background-size: cover;
